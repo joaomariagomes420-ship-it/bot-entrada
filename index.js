@@ -28,7 +28,7 @@ const CONFIG = {
   // depois clique com o botão direito no canal > "Copiar ID do canal".
   canalBoasVindas: '1564029565201027252',
 
-  cor: #FF0000, // cor da barrinha ao lado do embed (hexadecimal)
+  cor: 0xFF0000, // cor da barrinha ao lado do embed (hexadecimal)
 
   titulo: '⛩️ BEM-VINDO A BRAW HALLA RPG',
 
