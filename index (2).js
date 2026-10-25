@@ -26,9 +26,9 @@ const CONFIG = {
   // ID do canal onde a mensagem de boas-vindas vai aparecer.
   // Como pegar: Discord > Configurações > Avançado > ligue o "Modo desenvolvedor",
   // depois clique com o botão direito no canal > "Copiar ID do canal".
-  canalBoasVindas: 'COLE_O_ID_DO_CANAL_AQUI',
+  canalBoasVindas: '1564029565201027252',
 
-  cor: 0xd4a017, // cor da barrinha ao lado do embed (hexadecimal)
+  cor: #FF0000, // cor da barrinha ao lado do embed (hexadecimal)
 
   titulo: '⛩️ BEM-VINDO A BRAW HALLA RPG',
 
